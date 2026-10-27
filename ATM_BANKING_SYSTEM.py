@@ -1,4 +1,5 @@
 # ATM banking details
+
 balance = 10000
 transactions = []
 
