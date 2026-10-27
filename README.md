@@ -21,22 +21,6 @@ The system starts with an initial balance of Rs. 10,000 and updates the balance 
 - Handle invalid menu choices
 - Exit the program safely
 
-## Python Concepts Practiced
-
-- Variables and data types
-- Lists
-- Functions
-- `while` loops
-- `for` loops
-- Conditional statements
-- User input using `input()`
-- Type conversion using `float()`
-- Global variables
-- List methods such as `append()`
-- F-strings
-- Arithmetic operations
-- Input validation
-
 ## Data Storage
 
 The account balance is stored in a variable, and transaction history is stored in a list. The data is kept in memory, so the balance and transaction history reset when the program restarts.
