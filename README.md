@@ -21,10 +21,6 @@ The system starts with an initial balance of Rs. 10,000 and updates the balance 
 - Handle invalid menu choices
 - Exit the program safely
 
-## Technologies Used
-
-- Python
-
 ## Python Concepts Practiced
 
 - Variables and data types
