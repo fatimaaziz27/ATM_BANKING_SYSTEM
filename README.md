@@ -20,9 +20,3 @@ The system starts with an initial balance of Rs. 10,000 and updates the balance 
 - Display transaction history
 - Handle invalid menu choices
 - Exit the program safely
-
-## Author
-
-Fatima Aziz
-
-GitHub: [fatimaaziz27](https://github.com/fatimaaziz27)
