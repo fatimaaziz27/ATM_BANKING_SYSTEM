@@ -21,15 +21,6 @@ The system starts with an initial balance of Rs. 10,000 and updates the balance 
 - Handle invalid menu choices
 - Exit the program safely
 
-## Future Improvements
-
-- Add a PIN verification system
-- Save transaction history to a file
-- Support multiple bank accounts
-- Add transaction dates and times
-- Improve input validation
-- Add a graphical user interface
-
 ## Author
 
 Fatima Aziz
