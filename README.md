@@ -37,17 +37,6 @@ The system starts with an initial balance of Rs. 10,000 and updates the balance 
 - Arithmetic operations
 - Input validation
 
-## How to Run
-
-1. Download or clone this repository.
-2. Open the project folder in a code editor.
-3. Make sure Python is installed.
-4. Run the Python file:
-
-   ```bash
-   python ATM_Banking_System.py
-   ```
-
 ## Data Storage
 
 The account balance is stored in a variable, and transaction history is stored in a list. The data is kept in memory, so the balance and transaction history reset when the program restarts.
