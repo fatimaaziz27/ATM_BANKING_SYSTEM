@@ -21,14 +21,6 @@ The system starts with an initial balance of Rs. 10,000 and updates the balance 
 - Handle invalid menu choices
 - Exit the program safely
 
-## Data Storage
-
-The account balance is stored in a variable, and transaction history is stored in a list. The data is kept in memory, so the balance and transaction history reset when the program restarts.
-
-## Purpose
-
-This project is designed to practice Python fundamentals by building a simple ATM banking simulation.
-
 ## Future Improvements
 
 - Add a PIN verification system
