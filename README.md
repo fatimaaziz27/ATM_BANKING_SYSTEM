@@ -37,38 +37,6 @@ The system starts with an initial balance of Rs. 10,000 and updates the balance 
 - Arithmetic operations
 - Input validation
 
-## How It Works
-
-### 1. Check Balance
-
-Displays the current account balance.
-
-### 2. Deposit Money
-
-Allows the user to enter an amount to deposit. The amount must be greater than zero. The system updates the balance and records the transaction.
-
-### 3. Withdraw Money
-
-Allows the user to withdraw money if the amount is greater than zero and does not exceed the available balance. The system updates the balance and records the transaction.
-
-### 4. Show Transaction History
-
-Displays all recorded deposits and withdrawals. If there are no transactions, the system displays a message.
-
-## Initial Balance
-
-The account starts with Rs. 10,000.
-
-## Menu Options
-
-| Option | Function |
-|---|---|
-| 0 | Exit |
-| 1 | Check Balance |
-| 2 | Deposit Money |
-| 3 | Withdraw Money |
-| 4 | Show Transaction History |
-
 ## How to Run
 
 1. Download or clone this repository.
